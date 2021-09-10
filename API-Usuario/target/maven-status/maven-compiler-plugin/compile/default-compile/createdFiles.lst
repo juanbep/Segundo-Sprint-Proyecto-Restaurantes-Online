@@ -1,0 +1,11 @@
+co\unicauca\user\infra\Error.class
+co\unicauca\user\presentation\rest\UserController.class
+co\unicauca\user\access\UserRepository.class
+co\unicauca\user\domain\validators\ValidationError.class
+co\unicauca\user\access\IUserRepository.class
+co\unicauca\user\domain\service\UserService.class
+co\unicauca\user\infra\JsonResponse.class
+co\unicauca\user\infra\Utilities.class
+co\unicauca\user\infra\DomainErrors.class
+co\unicauca\user\ApplicationConfiguration.class
+co\unicauca\user\domain\entity\User.class

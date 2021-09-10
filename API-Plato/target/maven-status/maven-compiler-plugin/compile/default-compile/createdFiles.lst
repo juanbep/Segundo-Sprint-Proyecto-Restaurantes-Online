@@ -1,0 +1,11 @@
+co\unicauca\plato\domain\service\PlatoService.class
+co\unicauca\plato\presentation\rest\PlatoController.class
+co\unicauca\plato\infra\Utilities.class
+co\unicauca\plato\domain\entity\Dish.class
+co\unicauca\plato\infra\Error.class
+co\unicauca\plato\access\PlatoRepository.class
+co\unicauca\plato\domain\validators\ValidationError.class
+co\unicauca\plato\access\IPlatoRepository.class
+co\unicauca\plato\infra\DomainErrors.class
+co\unicauca\plato\infra\JsonResponse.class
+co\unicauca\plato\ApplicationConfig.class
